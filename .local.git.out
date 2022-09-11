@@ -1,0 +1,3237 @@
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	scc
+Your branch is up to date with 'origin/master'.
+[master eaf852d] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master 1b67228] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 910935b] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 55 insertions(+), 46 deletions(-)
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master 0d9858a] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+M	scc
+M	simple.y
+M	tests/test1.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master c6d9808] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 49 insertions(+), 44 deletions(-)
+M	scc
+M	simple.y
+M	tests/ampersand.s
+M	tests/and.s
+D	tests/and.scc
+M	tests/args.s
+M	tests/array.out.scc
+M	tests/array.s
+D	tests/array.scc
+M	tests/array2.s
+M	tests/break.s
+M	tests/bubblesort.s
+M	tests/char.out.scc
+M	tests/char.s
+D	tests/char.scc
+M	tests/char2.s
+M	tests/continue.s
+M	tests/div.s
+D	tests/div.scc
+M	tests/dowhile.s
+M	tests/equal.s
+D	tests/equal.scc
+M	tests/expr.s
+D	tests/expr.scc
+M	tests/expr2.s
+M	tests/fact.s
+M	tests/for.s
+M	tests/global.s
+M	tests/if.s
+D	tests/if.scc
+M	tests/local.s
+M	tests/max.s
+M	tests/nested.s
+M	tests/or.s
+D	tests/or.scc
+M	tests/queens.s
+M	tests/rel.s
+D	tests/rel.scc
+M	tests/return.s
+M	tests/strlen.s
+M	tests/sum.s
+M	tests/test1.out.scc
+M	tests/test1.s
+D	tests/test1.scc
+M	tests/test2.s
+M	tests/total.txt
+M	tests/while.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 195bdd8] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 48 files changed, 207 insertions(+), 55 deletions(-)
+ delete mode 100755 tests/and.scc
+ delete mode 100755 tests/array.scc
+ delete mode 100755 tests/char.scc
+ delete mode 100755 tests/div.scc
+ delete mode 100755 tests/equal.scc
+ delete mode 100755 tests/expr.scc
+ delete mode 100755 tests/if.scc
+ delete mode 100755 tests/or.scc
+ delete mode 100755 tests/rel.scc
+ delete mode 100755 tests/test1.scc
+M	scc
+M	simple.y
+M	tests/ampersand.s
+M	tests/and.s
+M	tests/args.s
+M	tests/array.out.scc
+M	tests/array.s
+M	tests/array2.s
+M	tests/break.s
+M	tests/bubblesort.s
+M	tests/char.s
+M	tests/char2.s
+M	tests/continue.s
+M	tests/div.s
+M	tests/dowhile.s
+M	tests/equal.s
+M	tests/expr.s
+M	tests/expr2.s
+M	tests/fact.s
+M	tests/for.s
+M	tests/global.s
+M	tests/if.s
+M	tests/local.s
+M	tests/max.s
+M	tests/nested.s
+M	tests/or.s
+M	tests/queens.s
+M	tests/rel.s
+M	tests/return.s
+M	tests/strlen.s
+M	tests/sum.s
+M	tests/test1.out.scc
+M	tests/test1.s
+M	tests/test2.s
+M	tests/total.txt
+M	tests/while.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master af5442d] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 37 files changed, 99 insertions(+), 96 deletions(-)
+M	scc
+M	simple.y
+M	tests/global.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 4fc6d35] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 8 insertions(+), 2 deletions(-)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master ae548aa] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 130 insertions(+), 118 deletions(-)
+M	scc
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 94a9b00] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 9 insertions(+), 7 deletions(-)
+M	scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 0c71045] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 127 insertions(+), 129 deletions(-)
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master b086d68] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 15 deletions(-)
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master 3f520e9] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 15 insertions(+), 11 deletions(-)
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master e061f4d] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master f653e98] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 121 insertions(+), 57 deletions(-)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master a394d99] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 66 insertions(+), 63 deletions(-)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master fb00091] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+M	scc
+M	simple.y
+M	tests/global.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 9c768e3] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 10 insertions(+), 9 deletions(-)
+M	scc
+M	simple.y
+M	tests/global.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 2fdbc4b] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 81 insertions(+), 11 deletions(-)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 9569daa] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 244 insertions(+), 157 deletions(-)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master dc15ed6] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 46 insertions(+), 45 deletions(-)
+M	scc
+M	simple.y
+M	tests/ampersand.s
+M	tests/array.out.scc
+M	tests/array.s
+M	tests/array2.s
+M	tests/break.s
+M	tests/bubblesort.s
+M	tests/char.s
+M	tests/char2.s
+M	tests/continue.s
+M	tests/dowhile.out.scc
+M	tests/dowhile.s
+M	tests/expr2.s
+M	tests/for.out.scc
+M	tests/for.s
+M	tests/global.out.scc
+M	tests/global.s
+M	tests/local.s
+M	tests/max.s
+M	tests/nested.s
+M	tests/queens.s
+M	tests/quicksort.s
+M	tests/quicksortstr.s
+M	tests/return.s
+M	tests/strlen.s
+M	tests/sum.s
+M	tests/test2.s
+M	tests/while.out.scc
+M	tests/while.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 99f72b1] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 31 files changed, 514245 insertions(+), 528 deletions(-)
+M	scc
+M	simple.y
+M	tests/ampersand.s
+M	tests/and.s
+M	tests/array.s
+M	tests/array2.s
+M	tests/break.s
+M	tests/bubblesort.s
+M	tests/char.s
+M	tests/char2.s
+M	tests/continue.s
+M	tests/dowhile.out.scc
+M	tests/dowhile.s
+M	tests/expr2.s
+M	tests/for.out.scc
+M	tests/for.s
+M	tests/global.s
+M	tests/local.s
+M	tests/max.s
+M	tests/nested.s
+M	tests/or.s
+M	tests/queens.s
+M	tests/quicksort.s
+M	tests/quicksortstr.s
+M	tests/return.s
+M	tests/strlen.s
+M	tests/sum.s
+M	tests/test2.s
+M	tests/while.out.scc
+M	tests/while.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master b799057] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 31 files changed, 860 insertions(+), 514845 deletions(-)
+ rewrite tests/bubblesort.s (100%)
+ rewrite tests/char2.s (66%)
+ rewrite tests/max.s (65%)
+ rewrite tests/quicksort.s (100%)
+ rewrite tests/quicksortstr.s (100%)
+ rewrite tests/while.out.scc (100%)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master ea74287] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 14 deletions(-)
+D	scc
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 860ef95] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 4 insertions(+), 4 deletions(-)
+ delete mode 100755 scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 4a18bae] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	simple.y
+M	tests/ampersand.s
+M	tests/array.out.scc
+M	tests/array.s
+M	tests/array2.s
+M	tests/bubblesort.s
+M	tests/char.out.scc
+M	tests/char.s
+M	tests/char2.s
+M	tests/expr2.s
+M	tests/local.s
+M	tests/max.s
+M	tests/nested.s
+M	tests/queens.s
+M	tests/quicksortstr.s
+M	tests/return.s
+M	tests/strlen.s
+M	tests/sum.s
+M	tests/test2.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master ee62dff] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 20 files changed, 934 insertions(+), 230 deletions(-)
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master 7f27c98] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 65 insertions(+), 9 deletions(-)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master cfba65d] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 154 insertions(+), 76 deletions(-)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 56a93d1] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 72 insertions(+), 65 deletions(-)
+M	simple.y
+D	tests/ampersand.s
+D	tests/and.s
+D	tests/args.s
+M	tests/array.out.scc
+D	tests/array.s
+D	tests/array2.s
+D	tests/break.s
+D	tests/bubblesort.s
+M	tests/char.out.scc
+D	tests/char.s
+D	tests/char2.s
+D	tests/continue.s
+D	tests/div.s
+D	tests/dowhile.s
+D	tests/equal.s
+D	tests/expr.s
+D	tests/expr2.s
+D	tests/fact.s
+D	tests/for.s
+M	tests/global.out.scc
+D	tests/global.s
+D	tests/if.s
+D	tests/local.s
+D	tests/max.s
+D	tests/nested.s
+D	tests/or.s
+D	tests/queens.s
+D	tests/quicksort.s
+D	tests/quicksortstr.s
+D	tests/rel.s
+D	tests/return.s
+D	tests/strlen.s
+D	tests/sum.s
+M	tests/test1.out.scc
+D	tests/test1.s
+D	tests/test2.s
+M	tests/total.txt
+D	tests/while.s
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 95399af] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 40 files changed, 486 insertions(+), 4008 deletions(-)
+ delete mode 100644 tests/ampersand.s
+ delete mode 100644 tests/and.s
+ delete mode 100644 tests/args.s
+ delete mode 100644 tests/array.s
+ delete mode 100644 tests/array2.s
+ delete mode 100644 tests/break.s
+ delete mode 100644 tests/bubblesort.s
+ delete mode 100644 tests/char.s
+ delete mode 100644 tests/char2.s
+ delete mode 100644 tests/continue.s
+ delete mode 100644 tests/div.s
+ delete mode 100644 tests/dowhile.s
+ delete mode 100644 tests/equal.s
+ delete mode 100644 tests/expr.s
+ delete mode 100644 tests/expr2.s
+ delete mode 100644 tests/fact.s
+ delete mode 100644 tests/for.s
+ delete mode 100644 tests/global.s
+ delete mode 100644 tests/if.s
+ delete mode 100644 tests/local.s
+ delete mode 100644 tests/max.s
+ delete mode 100644 tests/nested.s
+ delete mode 100644 tests/or.s
+ delete mode 100644 tests/queens.s
+ delete mode 100644 tests/quicksort.s
+ delete mode 100644 tests/quicksortstr.s
+ delete mode 100644 tests/rel.s
+ delete mode 100644 tests/return.s
+ delete mode 100644 tests/strlen.s
+ delete mode 100644 tests/sum.s
+ delete mode 100644 tests/test1.s
+ delete mode 100644 tests/test2.s
+ delete mode 100644 tests/while.s
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master c69f326] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 14 insertions(+), 97 deletions(-)
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 795b63f] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 57 insertions(+), 158 deletions(-)
+A	.local.git.out
+A	scc
+M	simple.y
+A	tests/ampersand.s
+A	tests/and.s
+A	tests/and.scc
+A	tests/args.s
+A	tests/array.s
+A	tests/array.scc
+A	tests/array2.s
+A	tests/break.s
+A	tests/bubblesort.s
+M	tests/char.out.scc
+A	tests/char.s
+A	tests/char.scc
+A	tests/char2.s
+A	tests/continue.s
+A	tests/div.s
+A	tests/div.scc
+M	tests/dowhile.out.scc
+A	tests/dowhile.s
+A	tests/dowhile.scc
+A	tests/equal.s
+A	tests/equal.scc
+A	tests/expr.s
+A	tests/expr.scc
+A	tests/expr2.s
+A	tests/fact.s
+M	tests/for.out.scc
+A	tests/for.s
+A	tests/for.scc
+M	tests/global.out.scc
+A	tests/global.s
+A	tests/global.scc
+A	tests/if.s
+A	tests/if.scc
+A	tests/local.s
+A	tests/max.s
+A	tests/nested.s
+A	tests/or.s
+A	tests/or.scc
+A	tests/queens.s
+A	tests/quicksort.s
+A	tests/quicksortstr.s
+A	tests/rel.s
+A	tests/rel.scc
+A	tests/return.s
+A	tests/strlen.s
+A	tests/sum.s
+M	tests/test1.out.scc
+A	tests/test1.s
+A	tests/test1.scc
+A	tests/test2.s
+M	tests/total.txt
+M	tests/while.out.scc
+A	tests/while.s
+A	tests/while.scc
+A	total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 5c5018f] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 59 files changed, 517976 insertions(+), 204 deletions(-)
+ create mode 100644 .local.git.out
+ create mode 100755 scc
+ create mode 100644 tests/ampersand.s
+ create mode 100644 tests/and.s
+ create mode 100755 tests/and.scc
+ create mode 100644 tests/args.s
+ create mode 100644 tests/array.s
+ create mode 100755 tests/array.scc
+ create mode 100644 tests/array2.s
+ create mode 100644 tests/break.s
+ create mode 100644 tests/bubblesort.s
+ create mode 100644 tests/char.s
+ create mode 100755 tests/char.scc
+ create mode 100644 tests/char2.s
+ create mode 100644 tests/continue.s
+ create mode 100644 tests/div.s
+ create mode 100755 tests/div.scc
+ create mode 100644 tests/dowhile.s
+ create mode 100755 tests/dowhile.scc
+ create mode 100644 tests/equal.s
+ create mode 100755 tests/equal.scc
+ create mode 100644 tests/expr.s
+ create mode 100755 tests/expr.scc
+ create mode 100644 tests/expr2.s
+ create mode 100644 tests/fact.s
+ create mode 100644 tests/for.s
+ create mode 100755 tests/for.scc
+ create mode 100644 tests/global.s
+ create mode 100755 tests/global.scc
+ create mode 100644 tests/if.s
+ create mode 100755 tests/if.scc
+ create mode 100644 tests/local.s
+ create mode 100644 tests/max.s
+ create mode 100644 tests/nested.s
+ create mode 100644 tests/or.s
+ create mode 100755 tests/or.scc
+ create mode 100644 tests/queens.s
+ create mode 100644 tests/quicksort.s
+ create mode 100644 tests/quicksortstr.s
+ create mode 100644 tests/rel.s
+ create mode 100755 tests/rel.scc
+ create mode 100644 tests/return.s
+ create mode 100644 tests/strlen.s
+ create mode 100644 tests/sum.s
+ create mode 100644 tests/test1.s
+ create mode 100755 tests/test1.scc
+ create mode 100644 tests/test2.s
+ create mode 100644 tests/while.s
+ create mode 100755 tests/while.scc
+ create mode 100644 total.txt
+M	.local.git.out
+M	simple.y
+M	tests/and.scc
+M	tests/array.scc
+M	tests/char.scc
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.scc
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/or.scc
+M	tests/rel.scc
+M	tests/test1.scc
+M	tests/while.scc
+Your branch is up to date with 'origin/master'.
+[master 27a909a] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 16 files changed, 122 insertions(+), 47 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 9c104aa] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 264 insertions(+), 241 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 49dc97e] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 221 insertions(+), 199 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/and.scc
+M	tests/array.scc
+M	tests/char.scc
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.scc
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/or.scc
+M	tests/rel.scc
+M	tests/test1.scc
+M	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master c7a7740] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 17 files changed, 47 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	scc
+M	simple.y
+M	tests/ampersand.s
+M	tests/and.scc
+M	tests/args.out.scc
+M	tests/args.s
+M	tests/array.scc
+M	tests/array2.s
+M	tests/break.s
+M	tests/bubblesort.s
+M	tests/char.scc
+M	tests/char2.s
+M	tests/continue.s
+M	tests/div.scc
+M	tests/dowhile.out.scc
+M	tests/dowhile.s
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.scc
+M	tests/expr2.out.scc
+M	tests/expr2.s
+M	tests/fact.s
+M	tests/for.out.scc
+M	tests/for.s
+M	tests/for.scc
+M	tests/global.out.scc
+M	tests/global.s
+M	tests/global.scc
+M	tests/if.scc
+M	tests/local.out.scc
+M	tests/local.s
+M	tests/max.s
+M	tests/nested.out.scc
+M	tests/nested.s
+M	tests/or.scc
+M	tests/queens.s
+M	tests/quicksort.s
+M	tests/quicksortstr.s
+M	tests/rel.scc
+M	tests/return.out.scc
+M	tests/return.s
+M	tests/strlen.s
+M	tests/sum.s
+M	tests/test1.scc
+M	tests/test2.out.scc
+M	tests/test2.s
+M	tests/total.txt
+M	tests/while.out.scc
+M	tests/while.s
+M	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 7c5a523] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 52 files changed, 606 insertions(+), 512307 deletions(-)
+ rewrite tests/while.out.scc (100%)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 922e7fb] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 50 insertions(+), 31 deletions(-)
+M	.local.git.out
+M	scc
+M	simple.y
+M	tests/and.scc
+M	tests/args.out.scc
+M	tests/array.scc
+M	tests/char.scc
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.scc
+M	tests/expr2.out.scc
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/nested.out.scc
+M	tests/or.scc
+M	tests/rel.scc
+M	tests/return.out.scc
+M	tests/test1.scc
+M	tests/test2.out.scc
+M	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 10a4d92] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 23 files changed, 48 insertions(+), 13 deletions(-)
+M	.local.git.out
+M	scc
+M	simple.y
+M	tests/ampersand.out.scc
+M	tests/ampersand.s
+M	tests/and.scc
+M	tests/args.out.scc
+M	tests/array.s
+M	tests/array.scc
+M	tests/array2.s
+M	tests/bubblesort.s
+M	tests/char.s
+M	tests/char.scc
+M	tests/char2.s
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.scc
+M	tests/expr2.out.scc
+M	tests/expr2.s
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/local.out.scc
+M	tests/local.s
+M	tests/max.s
+M	tests/nested.out.scc
+M	tests/nested.s
+M	tests/or.scc
+M	tests/queens.s
+M	tests/quicksort.s
+M	tests/quicksortstr.s
+M	tests/rel.scc
+M	tests/return.out.scc
+M	tests/return.s
+M	tests/strlen.s
+M	tests/sum.s
+M	tests/test1.scc
+M	tests/test2.out.scc
+M	tests/test2.s
+M	tests/total.txt
+M	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master eb112cb] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 43 files changed, 266 insertions(+), 339 deletions(-)
+M	.local.git.out
+M	scc
+M	simple.y
+M	tests/ampersand.out.scc
+M	tests/ampersand.s
+M	tests/and.scc
+M	tests/args.out.scc
+M	tests/array.out.scc
+M	tests/array.s
+M	tests/array.scc
+M	tests/array2.s
+M	tests/bubblesort.s
+M	tests/char.scc
+M	tests/char2.s
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.scc
+M	tests/expr2.out.scc
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/max.s
+M	tests/nested.out.scc
+M	tests/or.scc
+M	tests/quicksort.s
+M	tests/quicksortstr.s
+M	tests/rel.scc
+M	tests/strlen.s
+M	tests/sum.out.scc
+M	tests/sum.s
+M	tests/test1.scc
+M	tests/test2.out.scc
+M	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 18285ad] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 136 insertions(+), 75 deletions(-)
+M	.local.git.out
+M	scc
+M	simple.y
+M	tests/ampersand.s
+M	tests/and.scc
+M	tests/args.out.scc
+M	tests/array.out.scc
+M	tests/array.s
+M	tests/array.scc
+M	tests/array2.s
+M	tests/bubblesort.s
+M	tests/char.scc
+M	tests/char2.s
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.scc
+M	tests/expr2.out.scc
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/max.s
+M	tests/nested.out.scc
+M	tests/or.scc
+M	tests/queens.s
+M	tests/quicksort.s
+M	tests/quicksortstr.s
+M	tests/rel.scc
+M	tests/strlen.s
+M	tests/sum.out.scc
+M	tests/sum.s
+M	tests/test1.scc
+M	tests/test2.out.scc
+M	tests/while.scc
+M	y.tab.c
+M	y.tab.h
+Your branch is up to date with 'origin/master'.
+[master 6256225] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 36 files changed, 747 insertions(+), 2309 deletions(-)
+ rewrite tests/ampersand.s (81%)
+ rewrite tests/bubblesort.s (81%)
+ rewrite tests/char2.s (82%)
+ rewrite tests/max.s (68%)
+ rewrite tests/quicksort.s (63%)
+ rewrite tests/strlen.s (78%)
+M	.local.git.out
+M	scc
+M	simple.y
+M	tests/ampersand.s
+M	tests/and.scc
+M	tests/args.out.scc
+M	tests/array.out.scc
+M	tests/array.s
+M	tests/array.scc
+M	tests/array2.s
+M	tests/bubblesort.s
+M	tests/char.scc
+M	tests/char2.s
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.scc
+M	tests/expr2.out.scc
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/max.s
+M	tests/nested.out.scc
+M	tests/or.scc
+M	tests/queens.s
+M	tests/quicksort.s
+M	tests/quicksortstr.s
+M	tests/rel.scc
+M	tests/strlen.s
+M	tests/sum.out.scc
+M	tests/sum.s
+M	tests/test1.scc
+M	tests/test2.out.scc
+M	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 5b3a2e7] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 1889 insertions(+), 226 deletions(-)
+M	.local.git.out
+M	scc
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 41cf5ea] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 51 insertions(+), 29 deletions(-)
+M	.local.git.out
+M	scc
+M	simple.y
+M	tests/and.scc
+M	tests/args.out.scc
+M	tests/array.scc
+M	tests/char.scc
+M	tests/div.out.scc
+M	tests/div.s
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.out.scc
+M	tests/expr.s
+M	tests/expr.scc
+M	tests/expr2.out.scc
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/nested.out.scc
+M	tests/or.scc
+M	tests/rel.scc
+M	tests/test1.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 2a21477] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 27 files changed, 60 insertions(+), 10 deletions(-)
+M	.local.git.out
+M	scc
+M	simple.y
+M	tests/ampersand.s
+M	tests/and.scc
+M	tests/args.out.scc
+M	tests/args.s
+M	tests/array.scc
+M	tests/array2.s
+M	tests/bubblesort.s
+M	tests/char.scc
+M	tests/char2.out.scc
+M	tests/char2.s
+M	tests/div.out.scc
+M	tests/div.s
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.out.scc
+M	tests/expr.s
+M	tests/expr.scc
+M	tests/expr2.out.scc
+M	tests/expr2.s
+M	tests/fact.s
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/local.out.scc
+M	tests/local.s
+M	tests/max.s
+M	tests/nested.out.scc
+M	tests/nested.s
+M	tests/or.scc
+M	tests/queens.s
+M	tests/quicksort.s
+M	tests/quicksortstr.s
+M	tests/rel.scc
+M	tests/return.out.scc
+M	tests/return.s
+M	tests/strlen.s
+M	tests/sum.out.scc
+M	tests/sum.s
+M	tests/test1.scc
+M	tests/test2.out.scc
+M	tests/test2.s
+M	tests/total.txt
+M	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master e8a61c0] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 48 files changed, 349 insertions(+), 369 deletions(-)
+M	.local.git.out
+M	scc
+M	simple.y
+M	tests/ampersand.out.scc
+M	tests/ampersand.s
+M	tests/and.scc
+M	tests/array.s
+M	tests/array.scc
+M	tests/array2.s
+M	tests/bubblesort.s
+M	tests/char.scc
+M	tests/char2.out.scc
+M	tests/char2.s
+M	tests/div.scc
+M	tests/dowhile.scc
+M	tests/equal.scc
+M	tests/expr.scc
+M	tests/for.scc
+M	tests/global.scc
+M	tests/if.scc
+M	tests/max.s
+M	tests/or.scc
+M	tests/queens.s
+M	tests/quicksort.s
+M	tests/quicksortstr.s
+M	tests/rel.scc
+M	tests/strlen.s
+M	tests/sum.out.scc
+M	tests/sum.s
+M	tests/test1.scc
+M	tests/total.txt
+M	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 4068263] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 33 files changed, 416 insertions(+), 760 deletions(-)
+M	.local.git.out
+D	scc
+M	simple.y
+M	tests/ampersand.gcc
+M	tests/ampersand.out.scc
+D	tests/ampersand.s
+M	tests/and.gcc
+D	tests/and.s
+D	tests/and.scc
+M	tests/args.gcc
+M	tests/args.out.scc
+D	tests/args.s
+M	tests/array.gcc
+M	tests/array.out.scc
+D	tests/array.s
+D	tests/array.scc
+M	tests/array2.gcc
+D	tests/array2.s
+M	tests/break.gcc
+D	tests/break.s
+M	tests/bubblesort.gcc
+D	tests/bubblesort.s
+M	tests/char.gcc
+M	tests/char.out.scc
+D	tests/char.s
+D	tests/char.scc
+M	tests/char2.gcc
+D	tests/char2.s
+M	tests/continue.gcc
+D	tests/continue.s
+M	tests/div.gcc
+D	tests/div.s
+D	tests/div.scc
+M	tests/dowhile.gcc
+M	tests/dowhile.out.scc
+D	tests/dowhile.s
+D	tests/dowhile.scc
+M	tests/equal.gcc
+D	tests/equal.s
+D	tests/equal.scc
+M	tests/expr.gcc
+D	tests/expr.s
+D	tests/expr.scc
+M	tests/expr2.gcc
+M	tests/expr2.out.scc
+D	tests/expr2.s
+M	tests/fact.gcc
+D	tests/fact.s
+M	tests/for.gcc
+M	tests/for.out.scc
+D	tests/for.s
+D	tests/for.scc
+M	tests/global.gcc
+M	tests/global.out.scc
+D	tests/global.s
+D	tests/global.scc
+M	tests/if.gcc
+D	tests/if.s
+D	tests/if.scc
+M	tests/local.gcc
+M	tests/local.out.scc
+D	tests/local.s
+M	tests/max.gcc
+D	tests/max.s
+M	tests/nested.gcc
+M	tests/nested.out.scc
+D	tests/nested.s
+M	tests/or.gcc
+D	tests/or.s
+D	tests/or.scc
+M	tests/queens.gcc
+D	tests/queens.s
+M	tests/quicksort.gcc
+D	tests/quicksort.s
+M	tests/quicksortstr.gcc
+D	tests/quicksortstr.s
+M	tests/rel.gcc
+D	tests/rel.s
+D	tests/rel.scc
+M	tests/return.gcc
+M	tests/return.out.scc
+D	tests/return.s
+M	tests/strlen.gcc
+D	tests/strlen.s
+M	tests/sum.gcc
+D	tests/sum.s
+M	tests/test1.gcc
+M	tests/test1.out.scc
+D	tests/test1.s
+D	tests/test1.scc
+M	tests/test2.gcc
+M	tests/test2.out.scc
+D	tests/test2.s
+M	tests/total.txt
+M	tests/while.gcc
+M	tests/while.out.scc
+D	tests/while.s
+D	tests/while.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 4455dc3] Commit
+ Committer: Haohan Wu <wu1669@hopper01.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 99 files changed, 633 insertions(+), 4769 deletions(-)
+ delete mode 100755 scc
+ delete mode 100644 tests/ampersand.s
+ delete mode 100644 tests/and.s
+ delete mode 100755 tests/and.scc
+ delete mode 100644 tests/args.s
+ delete mode 100644 tests/array.s
+ delete mode 100755 tests/array.scc
+ delete mode 100644 tests/array2.s
+ delete mode 100644 tests/break.s
+ delete mode 100644 tests/bubblesort.s
+ delete mode 100644 tests/char.s
+ delete mode 100755 tests/char.scc
+ delete mode 100644 tests/char2.s
+ delete mode 100644 tests/continue.s
+ delete mode 100644 tests/div.s
+ delete mode 100755 tests/div.scc
+ delete mode 100644 tests/dowhile.s
+ delete mode 100755 tests/dowhile.scc
+ delete mode 100644 tests/equal.s
+ delete mode 100755 tests/equal.scc
+ delete mode 100644 tests/expr.s
+ delete mode 100755 tests/expr.scc
+ delete mode 100644 tests/expr2.s
+ delete mode 100644 tests/fact.s
+ delete mode 100644 tests/for.s
+ delete mode 100755 tests/for.scc
+ delete mode 100644 tests/global.s
+ delete mode 100755 tests/global.scc
+ delete mode 100644 tests/if.s
+ delete mode 100755 tests/if.scc
+ delete mode 100644 tests/local.s
+ delete mode 100644 tests/max.s
+ delete mode 100644 tests/nested.s
+ delete mode 100644 tests/or.s
+ delete mode 100755 tests/or.scc
+ delete mode 100644 tests/queens.s
+ delete mode 100644 tests/quicksort.s
+ delete mode 100644 tests/quicksortstr.s
+ delete mode 100644 tests/rel.s
+ delete mode 100755 tests/rel.scc
+ delete mode 100644 tests/return.s
+ delete mode 100644 tests/strlen.s
+ delete mode 100644 tests/sum.s
+ delete mode 100644 tests/test1.s
+ delete mode 100755 tests/test1.scc
+ delete mode 100644 tests/test2.s
+ delete mode 100644 tests/while.s
+ delete mode 100755 tests/while.scc
+M	.local.git.out
+M	tests/ampersand.gcc
+M	tests/and.gcc
+M	tests/args.gcc
+M	tests/array.gcc
+M	tests/array2.gcc
+M	tests/break.gcc
+M	tests/bubblesort.gcc
+M	tests/char.gcc
+M	tests/char2.gcc
+M	tests/continue.gcc
+M	tests/div.gcc
+M	tests/dowhile.gcc
+M	tests/equal.gcc
+M	tests/expr.gcc
+M	tests/expr2.gcc
+M	tests/fact.gcc
+M	tests/for.gcc
+M	tests/global.gcc
+M	tests/if.gcc
+M	tests/local.gcc
+M	tests/max.gcc
+M	tests/nested.gcc
+M	tests/or.gcc
+M	tests/queens.gcc
+M	tests/quicksort.gcc
+M	tests/quicksortstr.gcc
+M	tests/rel.gcc
+M	tests/return.gcc
+M	tests/strlen.gcc
+M	tests/sum.gcc
+M	tests/test1.gcc
+M	tests/test2.gcc
+M	tests/while.gcc
+Your branch is up to date with 'origin/master'.
+[master 4e77d42] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 98 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 895b7a7] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master ee20bd2] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 30 insertions(+), 31 deletions(-)
+M	.local.git.out
+M	simple.y
+D	tests/ampersand.gcc
+D	tests/ampersand.gcc.out
+D	tests/ampersand.out.gcc
+D	tests/ampersand.out.scc
+M	tests/and.out.scc
+M	tests/args.out.scc
+M	tests/array.out.scc
+D	tests/bubblesort.gcc
+D	tests/bubblesort.gcc.out
+D	tests/bubblesort.out.gcc
+D	tests/bubblesort.out.scc
+D	tests/char.gcc
+D	tests/char.gcc.out
+D	tests/char.out.gcc
+D	tests/char.out.scc
+D	tests/char2.gcc
+D	tests/char2.gcc.out
+D	tests/char2.out.gcc
+D	tests/char2.out.scc
+M	tests/continue.out.scc
+M	tests/div.out.scc
+M	tests/dowhile.out.scc
+M	tests/expr.out.scc
+M	tests/expr2.out.scc
+D	tests/fact.gcc
+D	tests/fact.gcc.out
+D	tests/fact.out.gcc
+D	tests/fact.out.scc
+M	tests/for.out.scc
+M	tests/global.out.scc
+M	tests/if.out.scc
+M	tests/local.out.scc
+D	tests/max.gcc
+D	tests/max.gcc.out
+D	tests/max.out.gcc
+D	tests/max.out.scc
+M	tests/nested.out.scc
+M	tests/or.out.scc
+D	tests/queens.gcc
+D	tests/queens.gcc.out
+D	tests/queens.out.gcc
+D	tests/queens.out.scc
+D	tests/quicksort.gcc
+D	tests/quicksort.gcc.out
+D	tests/quicksort.out.gcc
+D	tests/quicksort.out.scc
+D	tests/quicksortstr.gcc
+D	tests/quicksortstr.gcc.out
+D	tests/quicksortstr.out.gcc
+D	tests/quicksortstr.out.scc
+M	tests/return.out.scc
+D	tests/strlen.gcc
+D	tests/strlen.gcc.out
+D	tests/strlen.out.gcc
+D	tests/strlen.out.scc
+D	tests/sum.out.gcc
+M	tests/test1.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	tests/while.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 1021ca1] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 63 files changed, 2311633 insertions(+), 718 deletions(-)
+ delete mode 100755 tests/ampersand.gcc
+ delete mode 100644 tests/ampersand.gcc.out
+ delete mode 100644 tests/ampersand.out.gcc
+ delete mode 100644 tests/ampersand.out.scc
+ delete mode 100755 tests/bubblesort.gcc
+ delete mode 100644 tests/bubblesort.gcc.out
+ delete mode 100644 tests/bubblesort.out.gcc
+ delete mode 100644 tests/bubblesort.out.scc
+ delete mode 100755 tests/char.gcc
+ delete mode 100644 tests/char.gcc.out
+ delete mode 100644 tests/char.out.gcc
+ delete mode 100644 tests/char.out.scc
+ delete mode 100755 tests/char2.gcc
+ delete mode 100644 tests/char2.gcc.out
+ delete mode 100644 tests/char2.out.gcc
+ delete mode 100644 tests/char2.out.scc
+ delete mode 100755 tests/fact.gcc
+ delete mode 100644 tests/fact.gcc.out
+ delete mode 100644 tests/fact.out.gcc
+ delete mode 100644 tests/fact.out.scc
+ delete mode 100755 tests/max.gcc
+ delete mode 100644 tests/max.gcc.out
+ delete mode 100644 tests/max.out.gcc
+ delete mode 100644 tests/max.out.scc
+ delete mode 100755 tests/queens.gcc
+ delete mode 100644 tests/queens.gcc.out
+ delete mode 100644 tests/queens.out.gcc
+ delete mode 100644 tests/queens.out.scc
+ delete mode 100755 tests/quicksort.gcc
+ delete mode 100644 tests/quicksort.gcc.out
+ delete mode 100644 tests/quicksort.out.gcc
+ delete mode 100644 tests/quicksort.out.scc
+ delete mode 100755 tests/quicksortstr.gcc
+ delete mode 100644 tests/quicksortstr.gcc.out
+ delete mode 100644 tests/quicksortstr.out.gcc
+ delete mode 100644 tests/quicksortstr.out.scc
+ delete mode 100755 tests/strlen.gcc
+ delete mode 100644 tests/strlen.gcc.out
+ delete mode 100644 tests/strlen.out.gcc
+ delete mode 100644 tests/strlen.out.scc
+ delete mode 100644 tests/sum.out.gcc
+ rewrite tests/total.txt (63%)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 9204318] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 59 insertions(+)
+M	.local.git.out
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master 0aba203] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 31 insertions(+)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 1bf4c32] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 99 insertions(+), 67 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/break.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master c45d325] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 581374 insertions(+), 84 deletions(-)
+M	.local.git.out
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 843a1d6] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 176 insertions(+), 59 deletions(-)
+M	.local.git.out
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master e57f74b] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 50 insertions(+), 32 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master d48b181] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 52 insertions(+), 33 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/array2.out.scc
+M	tests/break.out.scc
+M	tests/continue.out.scc
+M	tests/dowhile.out.scc
+M	tests/equal.out.scc
+M	tests/for.out.scc
+M	tests/rel.out.scc
+M	tests/sum.out.scc
+M	tests/total.txt
+M	tests/while.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 44edf09] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 13 files changed, 246 insertions(+), 2892510 deletions(-)
+ rewrite tests/break.out.scc (99%)
+ rewrite tests/continue.out.scc (99%)
+ rewrite tests/dowhile.out.scc (99%)
+ rewrite tests/for.out.scc (99%)
+ rewrite tests/while.out.scc (99%)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 8c1d4fb] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 148 insertions(+), 77 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 3d46722] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 80 insertions(+), 57 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 1ad9533] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 78 insertions(+), 52 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/array.out.scc
+M	tests/array2.out.scc
+M	tests/sum.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 22c653b] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 171 insertions(+), 159 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master bc10d9b] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 107 insertions(+), 61 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/and.out.scc
+M	tests/args.out.scc
+M	tests/break.out.scc
+M	tests/continue.out.scc
+M	tests/div.out.scc
+M	tests/dowhile.out.scc
+M	tests/equal.out.scc
+M	tests/expr.out.scc
+M	tests/expr2.out.scc
+M	tests/for.out.scc
+M	tests/global.out.scc
+M	tests/if.out.scc
+M	tests/local.out.scc
+M	tests/nested.out.scc
+M	tests/or.out.scc
+M	tests/rel.out.scc
+M	tests/return.out.scc
+M	tests/test1.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	tests/while.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master fce5380] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 24 files changed, 343 insertions(+), 335 deletions(-)
+M	.local.git.out
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master 0c73222] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 26 insertions(+), 22 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/and.out.scc
+M	tests/args.out.scc
+M	tests/break.out.scc
+M	tests/continue.out.scc
+M	tests/div.out.scc
+M	tests/dowhile.out.scc
+M	tests/equal.out.scc
+M	tests/expr.out.scc
+M	tests/for.out.scc
+M	tests/global.out.scc
+M	tests/if.out.scc
+M	tests/local.out.scc
+M	tests/or.out.scc
+M	tests/rel.out.scc
+M	tests/test1.out.scc
+M	tests/total.txt
+M	tests/while.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 9da6e98] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 20 files changed, 319 insertions(+), 130 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 5a7e563] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 302 insertions(+), 277 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/args.out.scc
+M	tests/local.out.scc
+M	tests/total.txt
+Your branch is up to date with 'origin/master'.
+[master 609e5ce] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 41 insertions(+), 21 deletions(-)
+M	.local.git.out
+M	tests/args.out.scc
+M	tests/local.out.scc
+M	tests/total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master a9d12cb] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 274 insertions(+), 256 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 1ec57f5] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master d2b8a45] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 88c573e] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 153 insertions(+), 138 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master d30dec6] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 72 insertions(+), 52 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/expr2.out.scc
+M	tests/nested.out.scc
+M	tests/return.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master a0593ab] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 54 insertions(+), 24 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 761cb8b] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 326 insertions(+), 301 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/args.out.scc
+M	tests/expr2.out.scc
+M	tests/local.out.scc
+M	tests/nested.out.scc
+M	tests/return.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 9e5058d] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 10 files changed, 299 insertions(+), 274 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/args.out.scc
+M	tests/array.out.scc
+M	tests/array2.out.scc
+M	tests/expr2.out.scc
+M	tests/local.out.scc
+M	tests/nested.out.scc
+M	tests/return.out.scc
+M	tests/sum.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	y.tab.c
+M	y.tab.h
+Your branch is up to date with 'origin/master'.
+[master 22cae55] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 14 files changed, 874 insertions(+), 795 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/args.out.scc
+M	tests/array.out.scc
+M	tests/array2.out.scc
+M	tests/expr2.out.scc
+M	tests/local.out.scc
+M	tests/nested.out.scc
+M	tests/return.out.scc
+M	tests/sum.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	y.tab.c
+M	y.tab.h
+Your branch is up to date with 'origin/master'.
+[master c7d57b3] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 14 files changed, 577 insertions(+), 590 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master f5f65b9] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 291 insertions(+), 268 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/array.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 31dbabe] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 344 insertions(+), 319 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 738147d] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 174 insertions(+), 139 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master d44f8f4] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 63 insertions(+), 53 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 393bf30] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 117 insertions(+), 104 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 89b76b6] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 25 insertions(+), 7 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/args.out.scc
+M	tests/expr2.out.scc
+M	tests/local.out.scc
+M	tests/nested.out.scc
+M	tests/return.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 100bfc8] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 10 files changed, 94 insertions(+), 74 deletions(-)
+M	.local.git.out
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master 7c70a46] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 23 insertions(+)
+M	.local.git.out
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master c50b17b] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 22 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master bfdf002] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 77 insertions(+), 60 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 3d2feff] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 328 insertions(+), 307 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/array.out.scc
+M	tests/array2.out.scc
+M	tests/sum.out.scc
+M	tests/total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 58c839a] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 78 insertions(+), 32 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 8cf24b2] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 42 insertions(+), 23 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 69076c9] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 67 insertions(+), 44 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/array.out.scc
+M	tests/array2.out.scc
+M	tests/sum.out.scc
+M	tests/total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master d2d2f7b] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 282 insertions(+), 282 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/array.out.scc
+M	tests/array2.out.scc
+M	tests/sum.out.scc
+M	tests/total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master bef598d] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 63 insertions(+), 17 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 219a97e] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 51 insertions(+), 40 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/and.out.scc
+M	tests/args.out.scc
+M	tests/array.out.scc
+M	tests/array2.out.scc
+M	tests/break.out.scc
+M	tests/continue.out.scc
+M	tests/div.out.scc
+M	tests/dowhile.out.scc
+M	tests/equal.out.scc
+M	tests/expr.out.scc
+M	tests/expr2.out.scc
+M	tests/for.out.scc
+M	tests/global.out.scc
+M	tests/if.out.scc
+M	tests/local.out.scc
+M	tests/nested.out.scc
+M	tests/or.out.scc
+M	tests/rel.out.scc
+M	tests/return.out.scc
+M	tests/sum.out.scc
+M	tests/test1.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	tests/while.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 7d6900a] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 27 files changed, 217 insertions(+), 351 deletions(-)
+ rewrite tests/total.txt (97%)
+M	.local.git.out
+M	simple.y
+M	tests/and.out.scc
+M	tests/args.out.scc
+M	tests/break.out.scc
+M	tests/continue.out.scc
+M	tests/div.out.scc
+M	tests/dowhile.out.scc
+M	tests/equal.out.scc
+M	tests/expr.out.scc
+M	tests/expr2.out.scc
+M	tests/for.out.scc
+M	tests/global.out.scc
+M	tests/if.out.scc
+M	tests/local.out.scc
+M	tests/nested.out.scc
+M	tests/or.out.scc
+M	tests/rel.out.scc
+M	tests/return.out.scc
+M	tests/test1.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	tests/while.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master f5a326d] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 24 files changed, 355 insertions(+), 173 deletions(-)
+ rewrite tests/total.txt (68%)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master b5560c2] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 110 insertions(+), 89 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 358191e] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 27 insertions(+), 12 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 36889dd] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 87 insertions(+), 71 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/array.out.scc
+M	tests/array2.out.scc
+M	tests/sum.out.scc
+M	tests/total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 0a6d3e4] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 160 insertions(+), 104 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/total.txt
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master c856475] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 136 insertions(+), 95 deletions(-)
+M	.local.git.out
+M	simple.y
+M	tests/and.out.scc
+M	tests/args.out.scc
+M	tests/array.out.scc
+M	tests/array2.out.scc
+M	tests/break.out.scc
+M	tests/continue.out.scc
+M	tests/div.out.scc
+M	tests/dowhile.out.scc
+M	tests/equal.out.scc
+M	tests/expr.out.scc
+M	tests/expr2.out.scc
+M	tests/for.out.scc
+M	tests/global.out.scc
+M	tests/if.out.scc
+M	tests/local.out.scc
+M	tests/nested.out.scc
+M	tests/or.out.scc
+M	tests/rel.out.scc
+M	tests/return.out.scc
+M	tests/sum.out.scc
+M	tests/test1.out.scc
+M	tests/test2.out.scc
+M	tests/total.txt
+M	tests/while.out.scc
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 5c2eb41] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 27 files changed, 392 insertions(+), 528 deletions(-)
+ rewrite tests/total.txt (88%)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 8c8d2a1] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 18 insertions(+)
+M	.local.git.out
+M	simple.y
+Your branch is up to date with 'origin/master'.
+[master afdabed] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 01b4989] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 21 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	simple.y
+M	y.tab.c
+Your branch is up to date with 'origin/master'.
+[master 510ae1b] Commit
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 341 insertions(+), 315 deletions(-)
